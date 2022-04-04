@@ -13,11 +13,11 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: Marouane BAZZAOUI
 
-  - Student 2: ❔
+  - Student 2: Haythame BENSMAIL
 
-  - Student 3: ❔
+  - Student 3: Mohamed BAROUDI
 
   - Student 4: ❔
 
