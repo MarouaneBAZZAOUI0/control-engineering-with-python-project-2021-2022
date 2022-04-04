@@ -19,7 +19,7 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
   - Student 3: Mohamed BAROUDI
 
-  - Student 4: ❔
+  - Student 4: Mouhcine BARKA
 
 ## Getting Started
 
